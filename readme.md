@@ -16,7 +16,7 @@
     1 hour 
 
  ### Live link of the project    
-[Netlify](https://62ed4970abfa6d0462fc59ba--landing-websites.netlify.app/)
+[Netlify](https://digital-marketing-web-page.netlify.app)
 
 
 
